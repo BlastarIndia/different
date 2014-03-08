@@ -1,6 +1,6 @@
 # different
 
-Paste the following into your terminal to have your computer "speak" 2 Chainz - I'm different
+Paste the following into your terminal to have your computer "speak" [2 Chainz - I'm different](http://www.youtube.com/watch?v=e2QKlmMT8II)
 
 
 ### OS X
