@@ -1,10 +1,12 @@
-Teach your computer how to rap in one easy step
+# different
+
+Paste the following into your terminal to have your computer "speak" 2 Chainz - I'm different
 
 
 ### OS X
 
 ```
-TODO
+curl -s https://raw.github.com/andreis/different/master/different | say
 ```
 
 Protip: Cmd-C any text and then use `pbpaste | say`
@@ -12,5 +14,5 @@ Protip: Cmd-C any text and then use `pbpaste | say`
 ### Linux (Ubuntu, Fedora)
 
 ```
-TODO
+curl -s https://raw.github.com/andreis/different/master/different | espeak
 ```
