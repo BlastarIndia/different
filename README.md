@@ -1,4 +1,16 @@
-different
-=========
+Teach your computer how to rap in one easy step
 
-Having fun with `say`
+
+### OS X
+
+```
+TODO
+```
+
+Protip: Cmd-C any text and then use `pbpaste | say`
+
+### Linux (Ubuntu, Fedora)
+
+```
+TODO
+```
